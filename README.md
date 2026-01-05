@@ -1,4 +1,3 @@
-# AWS EBS Snapshot Cleanup — Cloud Cost Optimization
 # AWS Cloud Cost Optimization — Identifying Stale EBS Snapshots
 
 ## Overview
